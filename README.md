@@ -11,6 +11,6 @@ Realizar o build:
 
 ```console
 sudo docker build .
-``
+```
 
 Após isso o container estará cadastrado no registro local do docker.
